@@ -1,0 +1,4 @@
+:root { --bg: #1a1a2e; --panel: #16213e; --accent: #0f3460; --highlight: #e94560; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--bg); color: #eee; font-family: 'Inter', sans-serif; height: 100vh; }
+#root { height: 100vh; display: flex; flex-direction: column; }
